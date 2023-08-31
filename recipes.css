@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 15px;
+}
+.sections{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width:30vw;
+    
+    margin: 0px auto 0px auto;
+}
+img{
+    border-radius: 10px;
+}
+.sections h3{
+    padding: 5px 0 5px 0;
+}
+a{
+    text-decoration: none;
+    font-size: 1.6rem;
+    padding: 10px;
+}
+.anchor{
+    display: flex;
+    justify-content: center;
+}
